@@ -71,6 +71,11 @@ const Footer = () => {
             <Link to='https://www.google.com/'><FaGoogle class='icon-2 mx-3' type='button'/></Link>
             <Link to='https://www.instagram.com/rs_media_1/'><FaInstagramSquare class='icon-3 mx-3' type='button'/></Link>
           </div> */}
+          <div class='col-12 col-sm-12 col-md-12 col-lg-4 d-flex justify-content-center'>
+            <Link to='https://www.facebook.com/'><FaFacebook class='icon-1 mx-3' type='button'/></Link>
+            <Link to='https://www.google.com/'><FaGoogle class='icon-2 mx-3' type='button'/></Link>
+            <Link to='https://www.instagram.com/rs_media_1/'><FaInstagramSquare class='icon-3 mx-3' type='button'/></Link>
+          </div>
          <div class='col-12 col-sm-12 col-md-12 col-lg-4 mt-2'>
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15799.639442158485!2d77.5345228968429!3d8.110660535294915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b04edcecf473c35%3A0x7bbfa795b65efe5c!2sRs%20Media%20Studio!5e0!3m2!1sen!2sin!4v1754993167318!5m2!1sen!2sin" width="300" height="300" title='add' allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div>
